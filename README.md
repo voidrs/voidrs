@@ -1,4 +1,6 @@
-## Hi there 👋
+## hi there. i'm void.
+
+there is no code here yet, but there will be soon.
 
 <!--
 **voidrs/voidrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
